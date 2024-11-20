@@ -26,27 +26,7 @@ Criar uma interface inspirada na Starbucks, explorando:
 - **Sobre**: Página com detalhes sobre a Starbucks.
 - **Novidades**: Página que apresenta novidades e promoções.
 
-##🛠️ Como Executar o Projeto
-Pré-requisitos
-Node.js instalado
-Gerenciador de pacotes: npm ou yarn
-Passos para rodar o projeto
-Clone o repositório:
-bash
-Copiar código
-git clone https://github.com/seu-usuario/desafio-final-starbucks.git
-Instale as dependências:
-bash
-Copiar código
-cd desafio-final-starbucks
-npm install
-Inicie o servidor de desenvolvimento:
-bash
-Copiar código
-npm start
-Acesse o projeto no navegador em: http://localhost:3000
-📸 Demonstração
-Adicione aqui screenshots ou GIFs da interface do projeto.
+---
 
 📝 Licença
 Este projeto foi desenvolvido para fins educacionais como parte do curso do Vai na Web. Sinta-se à vontade para utilizá-lo como referência!
@@ -54,3 +34,5 @@ Este projeto foi desenvolvido para fins educacionais como parte do curso do Vai 
 🙌 Agradecimentos
 Vai na Web pela oportunidade e aprendizado.
 L'Oréal pela parceria e apoio no desafio
+
+Dá uma olhada como ficou: https://desafio-final-phi.vercel.app/

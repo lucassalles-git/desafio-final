@@ -106,7 +106,6 @@ justify-content: space-between;
 `;
 
 export const ContainerCopoG = styled.div`
-border: solid;
 height: 85vh;
 display: flex;
 align-items: end;
@@ -133,7 +132,6 @@ export const CopoG = styled.img`
     left: 4vw;
 
     @media (min-width: 320px) and (max-width: 440px){
-        border: solid;
        width: 35vw;
        top: -0.01vh;
        left: 65vw;

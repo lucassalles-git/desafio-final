@@ -52,6 +52,6 @@ a{
 
 a:hover{
     padding-bottom: 3px;
-    border-bottom: 3px solid #1E3932;
+    border-bottom: 3px solid #037143;
 }
 `;

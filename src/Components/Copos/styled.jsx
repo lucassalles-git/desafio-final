@@ -20,6 +20,7 @@ left: 28.9vw;
     }
 
 img{
+    border-radius: 100%;
     transition: all 0.4s;
 
     @media (min-width: 320px) and (max-width: 440px){
@@ -30,5 +31,20 @@ img{
 img:hover{
     transform: rotate(11deg);
     transition: all 0.4s;
+
+    &.fundoVerde{
+        border-radius: 100%;
+        background-color: #037143;
+    }
+
+    &.fundoVermelho{
+        border-radius: 100%;
+        background-color: #97090C;
+    }
+
+    &.fundoAmarelo{
+        border-radius: 100%;
+        background-color: #DECD13;
+    }
 }
 `;
